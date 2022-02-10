@@ -26,7 +26,7 @@
     "gulp-sass": "^4.0.2",
     "gulp-webserver": "^0.9.1",
     "ncp": "^2.0.0",
-    "node-sass": "^4.9.4",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.18.5",
     "prompt": "^1.0.0",
     "pug": "^2.0.3",
